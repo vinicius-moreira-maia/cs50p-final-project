@@ -1,5 +1,5 @@
 # RECTANGLES
-Final Project for [CS50P](https://cs50.harvard.edu/python/2022/).
+Final Project for [CS50P](https://cs50.harvard.edu/python/2022/)
 
 #### **Video Demo**:
 [Project's Video](https://www.youtube.com/watch?v=HODJ91WuR5Q)
